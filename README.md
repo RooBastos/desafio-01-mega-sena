@@ -10,6 +10,6 @@
 
 ##
 
-Corrigido por:
+Feito por:
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/141182498?v=4" width=115><br><sub>Roberta Bastos Jesus</sub>](https://github.com/RooBastos) |
 | :---: |
